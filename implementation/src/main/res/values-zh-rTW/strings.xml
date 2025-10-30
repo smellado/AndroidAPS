@@ -16,4 +16,5 @@
     <string name="day_tir">白天 TIR</string>
     <string name="night_tir">夜間 TIR</string>
     <string name="carbs_short" comment="max 6 characters">碳水</string>
+    <!--    PumpStatusGenerator-->
 </resources>
